@@ -6,8 +6,9 @@
 * Clone it to your computer
 * npm i inside of it
 * npm install typescript
+    * Make a tsconfig.json file and refer to https://www.typescriptlang.org/tsconfig
 * Install VSCode extensions:
-* Javascript and Typescript Nightly from Microsoft
+    * Javascript and Typescript Nightly from Microsoft
 	
 	Gather data
 
@@ -33,4 +34,3 @@ Make sure your database can be queried
 		int tests:
 			Can I query the local db?
 				
-
